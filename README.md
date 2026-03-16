@@ -1,4 +1,3 @@
-Awesome 🔥 Here’s a **ready-to-upload professional README.md** for your project **“DSS Packet Sniffer”** — formatted perfectly for GitHub and LinkedIn readers.
 
 ---
 
